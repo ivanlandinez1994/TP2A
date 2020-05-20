@@ -81,7 +81,7 @@ async function asyncDelete(nameBd, colectionPrint){
 
 //-----------Llamadores de funciones, Descomentar la que se quiera ejecutar antes de ejecutar--------------//
 //printRegistros("sample_mflix", "users")
-//asyncInsert("sample_mflix", "users")
+//asyncInsert("sample_desafio2", "users")
 //asyncEdit("sample_mflix", "users")
 //asyncDelete("sample_mflix", "users")
 
